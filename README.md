@@ -102,17 +102,6 @@ Database used for taxonomic identification of vertebrates in fasta format (`12S_
 Data cleaning and preparation pipeline: filters contamination, standardises taxonomy,
 creates presence-absence matrices and metadata.
 
-  This script requires the following R packages:
-  
-  ``` r
-  library(lubridate)
-  library(dplyr)
-  library(data.table)
-  library(tidyr)
-  library(stringr)
-  library(reshape2)
-  ```
-  
 ##### Input Files
   
   - `ncl_raw.tsv` — Raw OTU table for eDNA samples  
@@ -192,30 +181,11 @@ creates presence-absence matrices and metadata.
 `ncl_model.R`  
   Generalized linear models assessing drivers of species richness. Comparing different variables and their influence on species richness within each sample. Looks at model AIC scores to determine the best fit and creates diagnostic plots.
 
-  This script requires the following R packages:
-  
-  ``` r
-  library(MASS)
-  library(ggplot2)
-  ```
 ------------------------------------------------------------------------
 
 `ncl_vegan.R`  
   
   Alpha and beta diversity analyses using the vegan R package. This script calculates diversity metrics (species richness, jaccard dissimilarity), generates plots (boxplots for alpha diversity, NMDS for community diversity), and runs statistical tests to compare community composition across sample types and detection methods.
-  
-  This script requires the following R packages:
-  
-  ``` r
-  library(vegan)
-  library(ggplot2)
-  library(viridis)
-  library(ggpubr)
-  library(dplyr)
-  library(tidyr)
-  library(cowplot)
-  library(dunn.test)
-  ```
     
   **Ouputs**
   
@@ -227,17 +197,6 @@ creates presence-absence matrices and metadata.
 
 `specaccums.R`  
   Species accumulation and extrapolation analysis with iNEXT package.
-    
-  This script requires the following R packages:
-  
-  ``` r
-  library(iNEXT)
-  library(lubridate)
-  library(vegan)
-  library(ggplot2)
-  library(dplyr)
-  library(tidyr)
-  ```
 
   **Ouputs**
   
@@ -250,15 +209,6 @@ creates presence-absence matrices and metadata.
 `habitat_discrimination.R`  
   Understanding community differences between habitats, looking individually at each method. NMDS plots looking at Jaccard dissimilarity and testing differences via pairwise PERMANOVA.
     
-  This script requires the following R packages:
-    
-  ``` r
-  library(vegan)
-  library(tidyverse)
-  library(indicspecies)
-  library(pairwiseAdonis)
-  ```
-  
   **Ouputs**
   
   - Plots: NMDS plots of data split by method, looking at the differences in community compared to the different habitats samples were collected from
@@ -271,17 +221,6 @@ creates presence-absence matrices and metadata.
   Functional diversity analyses (taxonomic distinctiveness, Rao’s
   quadratic entropy, functional redundancy). Also visualises traits in space relative to other samples with PCoA.
     
-  This script requires the following R packages:
-    
-  ``` r
-  library(vegan)
-  library(tidyverse)
-  library(fastDummies)
-  library(dplyr)
-  library(SYNCSA)
-  library(cluster)
-  ```
-  
   **Ouputs**
   
   - Plots:
@@ -296,18 +235,6 @@ creates presence-absence matrices and metadata.
   Construction of trophic metawebs by combining co-occurrence and
   trophic link data. Calculates a number of commonly used network indices for all possible combinations of methods (linkage density, connectance, number of links, modularity, robustness and mean trophic level)
       
-  This script requires the following R packages:
-    
-  ``` r
-  library(vegan)
-  library(igraph)
-  library(dplyr)
-  library(cheddar)
-  library(NetIndices)
-  library(ggplot2)
-  library(cowplot)
-  library(scales)
-  ```
   **Ouputs**
   
 - Plots:
