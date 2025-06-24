@@ -116,7 +116,7 @@ creates presence-absence matrices and metadata.
   - `all_meta.csv` — Combined metadata across methods
   
   
-##### Workflow Summary
+#### Workflow Summary
   
   **1. Clean and Format Raw eDNA Data**
   
