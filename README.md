@@ -82,6 +82,10 @@ co-occurrence networks detected by these complementary methods.
 - Raw DNA sequence output from Illumina Miseq sequencing in FASTA or
   zipped FASTQ formats (`dna_sequences.fasta` or `.fastq.zip`).
 
+### Reference Database
+
+Database used for taxonomic identification of vertebrates in fasta format (`12S_verts.fasta`) and txt file mapping sequences to their taxonomic IDs from Genbank (`12S_verts_tax_map.txt`).
+
 ### Data Analysis Scripts
 
   ------------------------------------------------------------------------
