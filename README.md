@@ -334,4 +334,5 @@ completeness.
 - For detailed file descriptions and workflows, please refer to the analysis scripts and inline comments.
 - The typical workflow begins with running `initial_cleanup.R`. Following this, any of the scripts can be run with the subsequent outputs.
 - Users should ensure required R packages are installed.
+- Zenodo repository DOI: 10.5281/zenodo.15723455
 
