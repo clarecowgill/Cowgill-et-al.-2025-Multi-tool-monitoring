@@ -79,13 +79,13 @@ co-occurrence networks detected by these complementary methods.
 
 ### DNA Sequences
 
-This repository contains the raw DNA sequence data generated from 10 sequencing libraries using the Illumina MiSeq platform. 
+The Zenodo repository for this paper contains the raw DNA sequence data generated from 10 sequencing libraries using the Illumina MiSeq platform. 
 
-- The full dataset is provided as a single compressed file: DNA Sequences.zip.
+- The full dataset is provided as a single compressed file: `DNA Sequences.zip`.
 
-- When unzipped, the archive reveals 10 folders named Lib1 through Lib10, each containing raw paired-end sequencing files in compressed FASTQ format (.fastq.gz).
+- When unzipped, the archive reveals 10 folders named `Lib1` through `Lib10`, each containing raw paired-end sequencing files in compressed FASTQ format (`.fastq.gz`).
 
-- Each FASTQ file includes sequence and quality score information and follows Illumina’s standard naming conventions (e.g., Lib1_S1_L001_R1_001.fastq.gz and       Lib1_S1_L001_R2_001.fastq.gz).
+- Each FASTQ file includes sequence and quality score information and follows Illumina’s standard naming conventions (e.g., `Lib1_S1_L001_R1_001.fastq.gz` and      `Lib1_S1_L001_R2_001.fastq.gz`).
 
 - The FASTQ files are compressed using BGZF (Blocked GNU Zip Format), compatible with standard gzip tools and bioinformatics software.
 
