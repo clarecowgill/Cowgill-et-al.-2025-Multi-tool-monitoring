@@ -241,7 +241,7 @@ creates presence-absence matrices and metadata.
 ------------------------------------------------------------------------
 
 `habitat_discrimination.R`  
-  Community difference testing via pairwise PERMANOVA.
+  Understanding community differences between habitats, looking individually at each method. NMDS plots looking at Jaccard dissimilarity and testing differences via pairwise PERMANOVA.
     
   This script requires the following R packages:
     
@@ -262,7 +262,7 @@ creates presence-absence matrices and metadata.
 
 `trait_analysis.R`  
   Functional diversity analyses (taxonomic distinctiveness, Rao’s
-  quadratic entropy, functional redundancy).
+  quadratic entropy, functional redundancy). Also visualises traits in space relative to other samples with PCoA.
     
   This script requires the following R packages:
     
