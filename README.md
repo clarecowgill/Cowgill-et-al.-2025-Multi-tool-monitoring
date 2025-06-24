@@ -75,11 +75,7 @@ co-occurrence networks detected by these complementary methods.
 
 ### Media Files
 
-- Zipped acoustic recordings from 7 AudioMoth devices (`NCL00.zip`,
-  `NCL01.zip`, …, `NCL08.zip`).
-  - Files are named in a *YYYYMMDD_HHMMSS* format.
-- Zipped camera trap photos from 15 cameras at 8 locations
-  (`NCL00B.zip`, `NCL01A.zip`, …, `NCL09B.zip`).
+- Zipped acoustic recordings from 7 AudioMoth devices and  camera trap photos from 15 cameras at 8 locations are available on the Zenodo repository for this publication
 
 ### DNA Sequences
 
