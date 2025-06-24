@@ -328,7 +328,3 @@ completeness.
 - The typical workflow begins with running `initial_cleanup.R`. Following this, any of the scripts can be run with the subsequent outputs.
 - Users should ensure required R packages are installed.
 
-## Citation
-
-Please cite this dataset as:
-
