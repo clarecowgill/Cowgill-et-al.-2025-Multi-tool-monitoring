@@ -92,7 +92,7 @@ Database used for taxonomic identification of vertebrates in fasta format (`12S_
 
 `initial_cleanup.R`  
 
-Data cleaning and preparation pipeline: filters contamination, standardizes taxonomy,
+Data cleaning and preparation pipeline: filters contamination, standardises taxonomy,
 creates presence-absence matrices and metadata.
 
   This script requires the following R packages:
@@ -156,7 +156,7 @@ creates presence-absence matrices and metadata.
   
   **6. Combine eDNA, Camera, and Acoustic Data**
   
-  - Standardizes species names
+  - Standardises species names
   - Merges acoustic and camera trap records
   - Creates multi-method presence-absence matrix (`ncl_all_pa.csv`)
   - Removes redundant family/genus-level entries
