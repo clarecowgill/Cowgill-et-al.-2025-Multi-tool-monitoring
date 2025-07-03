@@ -1,0 +1,82 @@
+node,species,genus,family,order,class,phylum,avonet_mass,Habitat,avonet_primary_lifestyle,amphibio_lifestyle,Locomotion,Activity,eubirds_mass,eubirds_trophic,mammal_diet,pantheria_mass,amphibio,Mass,trophic_traits,Notes.on.traits
+Acanthis_cabaret,Acanthis_cabaret,Acanthis,Fringillidae,Passeriformes,Aves,Chordata,12,Forest,Generalist,,Arboreal,Diurnal,13.65,CI,,NA,,13.65,CI,Using Acanthis flammea as a base for trophic traits. Granivore and Invertivore but not imnivore. Classed as arboreal
+Accipiter_gentilis,Accipiter_gentilis,Accipiter,Accipitridae,Accipitriformes,Aves,Chordata,866,Forest,Generalist,,Semi-arboreal,Diurnal,931.5,CV,,NA,,931.5,CV,
+Actitis_hypoleucos,Actitis_hypoleucos,Actitis,Scolopacidae,Charadriiformes,Aves,Chordata,48,Wetland,Terrestrial,,Semi-aquatic,Diurnal,48,CI,,NA,,48,CI,Avonet classed as terrestrial but feeds in water so semi-aquatic
+Aegithalos_caudatus,Aegithalos_caudatus,Aegithalos,Aegithalidae,Passeriformes,Aves,Chordata,8.6,Forest,Insessorial,,Arboreal,Diurnal,8.5,CI,,NA,,8.5,CI,
+Anatidae,Anatidae,,Anatidae,Anseriformes,Aves,Chordata,613.4,Wetland,Aquatic,Aq?,Semi-aquatic,Diurnal,756.8,O,,NA,,756.8,O,
+Anthus_pratensis,Anthus_pratensis,Anthus,Motacillidae,Passeriformes,Aves,Chordata,18.4,Grassland,Terrestrial,,Terrestrial,Diurnal,18.5,CI,,NA,,18.5,CI,
+Anthus_trivialis,Anthus_trivialis,Anthus,Motacillidae,Passeriformes,Aves,Chordata,23.3,Woodland,Terrestrial,,Semi-arboreal,Diurnal,22.15,CI,,NA,,22.15,CI,Semi-arboreal- listed as terrestrial in avonet but commonly perches in trees
+Apodemus_sylvaticus,Apodemus,Apodemus,Muridae,Rodentia,Mammalia,Chordata,21.9,Forest,,,Terrestrial,Nocturnal,NA,,O,NA,,21.9,O,"Insectivore, Granivore"
+Arvicola_amphibius,Arvicola_amphibius,Arvicola,Cricetidae,Rodentia,Mammalia,Chordata,120,Wetland,,,Semi-aquatic,Cathemeral,NA,,H,NA,,120,HG,Omnivore- Folivore
+Aythya,Aythya,Aythya,Anatidae,Anseriformes,Aves,Chordata,762.1,Wetland,Aquatic,Aq?,Semi-aquatic,Diurnal,879.5,O,,NA,,879.5,O,
+Bufo_bufo,Bufo_bufo,Bufo,Bufonidae,Anura,Amphibia,Chordata,69.6,Wetland,,"Ter, Aqu",Semi-aquatic,Nocturnal,NA,,,NA,CI,69.6,CI,
+Buteo_buteo,Buteo_buteo,Buteo,Accipitridae,Accipitriformes,Aves,Chordata,759.1,Grassland,Insessorial,,Semi-arboreal,Diurnal,806.5,CV,,NA,,806.5,CV,
+Capreolus_capreolus,Capreolus_capreolus,Capreolus,Cervidae,Artiodactyla,Mammalia,Chordata,22502.01,Forest,,,Terrestrial,Cathemeral,NA,,HF,22502.01,,22502.01,HF,Folivore
+Carduelis_carduelis,Carduelis_carduelis,Carduelis,Fringillidae,Passeriformes,Aves,Chordata,16,Woodland,Insessorial,,Arboreal,Diurnal,15.45,HG,,NA,,15.45,HG,
+Certhia_familiaris,Certhia_familiaris,Certhia,Certhiidae,Passeriformes,Aves,Chordata,9,Forest,Insessorial,,Arboreal,Diurnal,9.1,CI,,NA,,9.1,CI,
+Cervus_elaphus,Cervus_elaphus,Cervus,Cervidae,Artiodactyla,Mammalia,Chordata,79000,Generalist,,,Terrestrial,Cathemeral,NA,,HF,79000,,79000,HF,Folivore
+Cervus_nippon,Cervus_nippon,Cervus,Cervidae,Artiodactyla,Mammalia,Chordata,52999.99,Generalist,,,Terrestrial,Cathemeral,NA,,HF,52999.99,,52999.99,HF,Folivore
+Cinclus_cinclus,Cinclus_cinclus,Cinclus,Cinclidae,Passeriformes,Aves,Chordata,61.5,Riverine,Generalist,Aq?,Semi-aquatic,Diurnal,60.25,CI,,NA,,60.25,CI,Avonet classed as generalist but hunts in water so semi aquatic
+Columba,Columba,Columba,Columbidae,Columbiformes,Aves,Chordata,354.2,Generalist,Terrestrial,,Terrestrial,Diurnal,313,HG,,NA,,373.83,HG,
+Corvidae,Corvidae,,Corvidae,Passeriformes,Aves,Chordata,402.4,Forest,Terrestrial,,Terrestrial,Cathemeral,490.15,O,,NA,,490.15,O,
+Corvus_corax,Corvus_corax,Corvus,Corvidae,Passeriformes,Aves,Chordata,928,Forest,Terrestrial,,Terrestrial,Diurnal,1217.5,O,,NA,,1217.5,O,
+Corvus_corone,Corvus_corone,Corvus,Corvidae,Passeriformes,Aves,Chordata,570,Generalist,Terrestrial,,Terrestrial,Cathemeral,526.85,O,,NA,,526.85,O,
+Cuculus_canorus,Cuculus_canorus,Cuculus,Cuculidae,Cuculiformes,Aves,Chordata,111.4,Forest,Insessorial,,Arboreal,Diurnal,111,CI,,NA,,111,CI,
+Curruca_communis,Curruca_communis,Curruca,Sylviidae,Passeriformes,Aves,Chordata,15.1,Shrubland,Insessorial,,Semi-arboreal,Diurnal,14.75,CI,,NA,,14.75,CI,
+Cyanistes_caeruleus,Cyanistes_caeruleus,Cyanistes,Paridae,Passeriformes,Aves,Chordata,11.1,Forest,Insessorial,,Arboreal,Diurnal,11.5,CI,,NA,,11.5,CI,
+Dendrocopos_major,Dendrocopos_major,Dendrocopos,Picidae,Piciformes,Aves,Chordata,74.9,Woodland,Insessorial,,Arboreal,Diurnal,74,CI,,NA,,74,CI,
+Erithacus_rubecula,Erithacus_rubecula,Erithacus,Turdidae,Passeriformes,Aves,Chordata,17.7,Forest,Generalist,,Semi-arboreal,Diurnal,17.55,CI,,NA,,17.55,CI,
+Fringilla_coelebs,Fringilla_coelebs,Fringilla,Fringillidae,Passeriformes,Aves,Chordata,23.8,Forest,Generalist,,Arboreal,Diurnal,22.15,CI,,NA,,22.15,CI,
+Fulica_atra,Fulica_atra,Fulica,Rallidae,Gruiformes,Aves,Chordata,717.1,Wetland,Generalist,Aq?,Semi-aquatic,Diurnal,777,O,,NA,,777,O,Avonet classed as generalist but hunts  in water so semi aquatic
+Gallinula_chloropus,Gallinula_chloropus,Gallinula,Rallidae,Gruiformes,Aves,Chordata,339.6,Wetland,Terrestrial,,Semi-aquatic,Diurnal,348.5,O,,NA,,348.5,O,Avonet classed as terrestrial but feeds in water so semi-aquatic
+Garrulus_glandarius,Garrulus_glandarius,Garrulus,Corvidae,Passeriformes,Aves,Chordata,159.5,Forest,Insessorial,,Semi-arboreal,Cathemeral,164.4,O,,NA,,164.4,O,
+Haematopus_ostralegus,Haematopus_ostralegus,Haematopus,Haematopodidae,Charadriiformes,Aves,Chordata,526,Coastal,Terrestrial,,Semi-aquatic,Diurnal,510,CI,,NA,,510,CI,Avonet classed as terrestrial but feeds in water so semi-aquatic
+Hirundo_rustica,Hirundo_rustica,Hirumdo,Hirundinidae,Passeriformes,Aves,Chordata,17.9,Grassland,Aerial,,Volant,Diurnal,18.95,CI,,NA,,18.95,CI,
+Lagopus_muta,Lagopus_muta,Lagopus,Phasianidae,Galliformes,Aves,Chordata,535.3,Grassland,Terrestrial,,Terrestrial,Cathemeral,449,HG,,NA,,449,HG,"eubirds: Folivore, Frugivore, Granivore"
+Lepus_timidus,Lepus_timidus,Lepus,Leporidae,Lagomorpha,Mammalia,Chordata,3105.42,Grassland,,,Terrestrial,Cathemeral,NA,,HF,3105.42,,3105.42,HF,Folivore
+Lissotriton_helveticus,Lissotriton_helveticus,Lissotriton,Salamandridae,Caudata,Amphibia,Chordata,1.8,Wetland,,"Ter, Aqu",Semi-aquatic,Nocturnal,NA,,,NA,CI,1.8,CI,
+Lophophanes_cristatus,Lophophanes_cristatus,Lophophanes,Paridae,Passeriformes,Aves,Chordata,11,Woodland,Insessorial,,Arboreal,Cathemeral,11.35,CI,,NA,,11.35,CI,
+Loxia_curvirostra,Loxia_curvirostra,Loxia,Fringillidae,Passeriformes,Aves,Chordata,38.3,Forest,Insessorial,,Arboreal,Diurnal,41.7,HG,,NA,,41.7,HG,
+Martes_martes,Martes_martes,Martes,Mustelidae,Carnivora,Mammalia,Chordata,1299.99,Forest,,,Semi-arboreal,Cathemeral,NA,,O,1299.99,,1299.99,O,"mammals, frugivore"
+Meles_meles,Meles_meles,Meles,Mustelidae,Carnivora,Mammalia,Chordata,11884.03,Generalist,,,Terrestrial,Nocturnal,NA,,O,11884.03,,11884.03,O,"invertivore, frugivore, granivore"
+Microtus_agrestis,Microtus_agrestis,Microtus,Cricetidae,Rodentia,Mammalia,Chordata,35.87,Grassland,,,Terrestrial,Cathemeral,NA,,HG,NA,,35.87,HG,Granivore
+Motacilla_alba,Motacilla_alba,Motacilla,Motacillidae,Passeriformes,Aves,Chordata,23.9,Generalist,Terrestrial,,Terrestrial,Diurnal,20.5,CI,,NA,,20.5,CI,
+Motacilla_cinerea,Motacilla_cinerea,Motacilla,Motacillidae,Passeriformes,Aves,Chordata,17.2,Riverine,Terrestrial,,Semi-aquatic,Diurnal,17.85,CI,,NA,,17.85,CI,Avonet classed as terrestrial but feeds in water so semi-aquatic
+Muscicapa_striata,Muscicapa_striata,Muscicapa,Muscicapidae,Passeriformes,Aves,Chordata,15.9,Forest,Insessorial,,Arboreal,Diurnal,16.3,CI,,NA,,16.3,CI,
+Myodes_glareolus,Myodes_glareolus,Myodes,Cricetidae,Rodentia,Mammalia,Chordata,20.73,Forest,,,Terrestrial,Cathemeral,NA,,O,20.73,,20.73,O,"Invertivore, Granivore"
+Myotis_daubentonii,Myotis_daubentonii,Myotis,Vespertilionidae,Chiroptera,Mammalia,Chordata,7.63,Forest,,,Volant,Nocturnal,NA,,CI,7.63,,7.63,CI,Invertivore
+Neomys_fodiens,Neomys_fodiens,Neomys,Soricidae,Eulipotyphla,Mammalia,Chordata,15.26,Wetland,,,Semi-aquatic,Cathemeral,NA,,CI,15.26,,15.26,CI,Invertivore
+Numenius_arquata,Numenius_arquata,Numenius,Scolopacidae,Charadriiformes,Aves,Chordata,803,Grassland,Terrestrial,,Terrestrial,Cathemeral,725,CI,,NA,,725,CI,
+Oryctolagus_cuniculus,Oryctolagus_cuniculus,Oryctolagus,Leporidae,Lagomorpha,Mammalia,Chordata,1590.57,Grassland,,,Terrestrial,Cathemeral,NA,,HF,1590.57,,1590.57,HF,Folivore
+Parus_major,Parus_major,Parus,Paridae,Passeriformes,Aves,Chordata,16.3,Forest,Insessorial,,Arboreal,Cathemeral,18.25,CI,,NA,,18.25,CI,
+Passer_domesticus,Passer_domesticus,Passer,Passeridae,Passeriformes,Aves,Chordata,26.5,Generalist,Terrestrial,,Semi-arboreal,Diurnal,29.25,HG,,NA,,29.25,HG,"One instance in GLOBI database of eating a frog, kept as herbivore"
+Periparus_ater,Periparus_ater,Periparus,Paridae,Passeriformes,Aves,Chordata,9.2,Forest,Insessorial,,Arboreal,Diurnal,9.8,CI,,NA,,9.8,CI,
+Phasianidae,Phasianidae,Phasianidae,Phasianidae,Galliformes,Aves,Chordata,1120.3,Human-modified,Terrestrial,,Terrestrial,Diurnal,1134,O,,NA,,1134,O,
+Phylloscopus_trochilus,Phylloscopus_trochilus,Phylloscopus,Phylloscopidae,Passeriformes,Aves,Chordata,8.7,Forest,Insessorial,,Arboreal,Diurnal,9.1,CI,,NA,,9.1,CI,
+Pipistrellus_pipistrellus,Pipistrellus_pipistrellus,Pipistrellus,Vespertilionidae,Chiroptera,Mammalia,Chordata,5.3,Forest,,,Volant,Nocturnal,NA,,CI,5.3,,5.3,CI,Insectivore
+Pipistrellus_pygmaeus,Pipistrellus_pygmaeus,Pipistrellus,Vespertilionidae,Chiroptera,Mammalia,Chordata,5,Forest,,,Volant,Nocturnal,NA,,CI,5,,5,CI,Insectivore
+Plectrophenax_nivalis,Plectrophenax_nivalis,Plectrophenax,Fringillidae,Passeriformes,Aves,Chordata,42.2,Grassland,Terrestrial,,Terrestrial,Diurnal,37.35,HG,,NA,,37.35,HG,
+Pluvialis_apricaria,Pluvialis_apricaria,Pluvialis,Charadriidae,,Aves,Chordata,214,Grassland,Terrestrial,,Terrestrial,Cathemeral,206,CI,,NA,,206,CI,
+Prunella_modularis,Prunella_modularis,Prunella,Prunellidae,Passeriformes,Aves,Chordata,20.2,Forest,Terrestrial,,Arboreal,Diurnal,21.25,CI,,21.25,,21.25,CI,
+Pyrrhula_pyrrhula,Pyrrhula_pyrrhula,Pyrrhula,Fringillidae,Passeriformes,Aves,Chordata,24.3,Forest,Insessorial,,Arboreal,Diurnal,31,HG,,NA,,31,HG,"eubirds: Folivore, Frugivore, Granivore"
+Rana_temporaria,Rana_temporaria,Rana,Ranidae,Anura,Amphibia,Chordata,22,Wetland,,"Ter, Aqu, Arb",Semi-aquatic,Cathemeral,NA,,,NA,Invertivore,22,CI,
+Rattus_norvegicus,Rattus_norvegicus,Rattus,Muridae,Rodentia,Mammalia,Chordata,282.89,Generalist,,,Terrestrial,Cathemeral,NA,,O,NA,,282.89,O,Generalist (no specific category) - changed to omnivore
+Regulus_regulus,Regulus_regulus,Regulus,Regulidae,Passeriformes,Aves,Chordata,5.5,Forest,Insessorial,,Arboreal,Diurnal,5.4,CI,,NA,,5.4,CI,
+Saxicola_rubetra,Saxicola_rubetra,Saxicola,Muscicapidae,Passeriformes,Aves,Chordata,16.6,Shrubland,Insessorial,,Semi-arboreal,Diurnal,16.6,CI,,NA,,16.6,CI,
+Sciurus_carolinensis,Sciurus_carolinensis,Sciurus,Sciuridae,Rodentia,Mammalia,Chordata,545.4,Forest,,,Semi-arboreal,Diurnal,NA,,H,NA,,545.4,HG,"Frugivore, Granivore"
+Sciurus_vulgaris,Sciurus_vulgaris,Sciurus,Sciuridae,Rodentia,Mammalia,Chordata,333,Forest,,,Semi-arboreal,Diurnal,NA,,HG,NA,,333,HG,Granivore
+Scolopax_rusticola,Scolopax_rusticola,Scolopax,Scolopacidae,Charadriiformes,Aves,Chordata,308.3,Forest,Terrestrial,,Terrestrial,Nocturnal,312,CI,,NA,,312,CI,
+Sitta_europaea,Sitta_europaea,Sitta,Sittidae,Passeriformes,Aves,Chordata,20.4,Forest,Insessorial,,Arboreal,Diurnal,23.05,CI,,NA,,23.05,CI,
+Sorex_araneus,Sorex_araneus,Sorex,Soricidae,Eulipotyphla,Mammalia,Chordata,9.18,Forest,,,Terrestrial,Cathemeral,NA,,CI,9.18,,9.18,CI,Insectivore
+Sorex_minutus,Sorex_minutus,Sorex,Soricidae,Eulipotyphla,Mammalia,Chordata,4.32,Forest,,,Terrestrial,Cathemeral,NA,,CI,4.32,,4.32,CI,Insectivore
+Spinus_spinus,Spinus_spinus,Spinus,Fringillidae,Passeriformes,Aves,Chordata,13.2,Forest,Insessorial,,Arboreal,Diurnal,13.8,HG,,NA,,13.8,HG,eubirds: Granivore only
+Strix_aluco,Strix_aluco,Strix,Strigidae,Strigiformes,Aves,Chordata,472.5,Forest,Insessorial,,Arboreal,Nocturnal,495.5,CV,,NA,,495.5,CV,
+Sylvia_atricapilla,Sylvia_atricapilla,Sylvia,Sylviidae,Passeriformes,Aves,Chordata,16.7,Woodland,Insessorial,,Arboreal,Diurnal,18.6,CI,,NA,,18.6,CI,
+Tachybaptus_ruficollis,Tachybaptus_ruficollis,Tachybaptus,Podicipedidae,Podicipediformes,Aves,Chordata,169.4,Wetland,Aquatic,Aq?,Semi-aquatic,Diurnal,135,CI,,NA,,135,CI,
+Talpa_europaea,Talpa_europaea,Talpa,Talpidae,Eulipotyphla,Mammalia,Chordata,87.53,Generalist,,,Fossorial,Nocturnal,NA,,CI,NA,,87.53,CI,Insectivore
+Tringa_nebularia,Tringa_nebularia,Tringa,Scolopacidae,Charadriiformes,Aves,Chordata,187,Wetland,Terrestrial,,Semi-aquatic,Cathemeral,187,C,,NA,,187,CI,eubirds: Inverts and fish. Avonet classed as terrestrial but feeds in water so semi-aquatic
+Troglodytes_troglodytes,Troglodytes_troglodytes,Troglodytes,Certhiidae,Passeriformes,Aves,Chordata,9.7,Forest,Insessorial,,Arboreal,Diurnal,8.9,CI,,NA,,8.9,CI,
+Turdus_merula,Turdus_merula,Turdus,Turdidae,Passeriformes,Aves,Chordata,102.7,Forest,Generalist,,Semi-arboreal,Diurnal,97,CI,,NA,,97,CI,
+Turdus_philomelos,Turdus_philomelos,Turdus,Turdidae,Passeriformes,Aves,Chordata,67.7,Forest,Terrestrial,,Semi-arboreal,Diurnal,76,CI,,NA,,76,CI,
+Turdus_viscivorus,Turdus_viscivorus,Turdus,Turdidae,Passeriformes,Aves,Chordata,117.4,Forest,Insessorial,,Semi-arboreal,Diurnal,117.7,CI,,NA,,117.7,CI,
+Vulpes_vulpes,Vulpes_vulpes,Vulpes,Canidae,Carnivora,Mammalia,Chordata,4820.36,Generalist,,,Terrestrial,Nocturnal,NA,,O,NA,,4820.36,O,"Verts, Insects, Frug"
