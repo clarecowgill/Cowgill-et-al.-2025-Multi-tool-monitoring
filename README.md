@@ -35,7 +35,7 @@ co-occurrence networks detected by these complementary methods.
   
   _Note on sample naming: the first letter of each sample corresponds to substrate type (W=Water, T=Tree roller, S=Soil, P=Scat), the second correpsonds to habitat (C=Confier, B=Broadleaf, F=Felled, G=Bog) with sample number following. For soil and scat samples there is a suffix of either 1 or 2 denoting that these are lab replicates of the same field sample. Blanks are labelled as: NEG (PCR negative), POS (PCR positive), 'EB' (e.g. TEB1) are extraction blanks, 'BK' is a field blank (e.g. TBK1), FB (e.g. TFB1) denotes a filter blank when different distilled water was used._
 
-- `blank_associations.csv`  
+- `blank_association.csv`  
   Field, extraction, and PCR blanks and the samples they are associated
   with- used to create read thresholds to prevent fale positives.
 
