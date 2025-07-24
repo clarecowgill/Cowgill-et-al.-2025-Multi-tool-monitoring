@@ -31,7 +31,7 @@ co-occurrence networks detected by these complementary methods.
 
 - `ncl_matrix_raw.csv`  
   Raw eDNA sequence-based detections from water, soil, tree rolling, and
-  faecal samples.
+  faecal samples (before any contamination thresholds were applied).
   
   _Note on sample naming: the first letter of each sample corresponds to substrate type (W=Water, T=Tree roller, S=Soil, P=Scat), the second correpsonds to habitat (C=Confier, B=Broadleaf, F=Felled, G=Bog) with sample number following. For soil and scat samples there is a suffix of either 1 or 2 denoting that these are lab replicates of the same field sample. Blanks are labelled as: NEG (PCR negative), POS (PCR positive), 'EB' (e.g. TEB1) are extraction blanks, 'BK' is a field blank (e.g. TBK1), FB (e.g. TFB1) denotes a filter blank when different distilled water was used._
 
