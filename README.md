@@ -2,7 +2,7 @@ README
 ================
 2025-06-23
 
-# Multi-tool monitoring: integrating eDNA, acoustics, and cameras to monitor taxonomic, functional and trophic diversity
+# Multi-tool monitoring: integrating non-invasive methods to assess vertebrate diversity and trophic complexity in terrestrial rewilding 
 
 ## Table of Contents
 
